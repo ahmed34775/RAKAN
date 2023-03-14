@@ -34,7 +34,7 @@ header{
     padding-left: 100px;
 }
 .navigation a:hover{
-    color: #3e7d81;
+    color: #84d7dd;
     transition: 0.5s ease;
 }
 section{
@@ -220,10 +220,13 @@ width: 100%;
 
 }
 .A{
-    color: #000000;
+    color: #84d7dd;
 }
 .aa{
     font-weight: 300;
+}
+.aa :hover{
+    color: #8f8f8f;
 }
 .AAA{
     color: #fff;
@@ -236,6 +239,7 @@ width: 100%;
     font-weight: 15px;
     padding-left: 50px;
 }
+
 @media (max-width:1023px){
     header{
         padding: 12px 20px;
